@@ -1,0 +1,6 @@
+{
+  "name": "alugagoias",
+  "description": "Aluga Goiás: Imóveis de temporada, flats e apartamentos em Goiânia administrados por Wellington Rodovalho (CRECI-GO 42695 / CNAI 54826, Superhost no Airbnb). Reserva direta sem taxas abusivas com suporte via WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
